@@ -11,7 +11,7 @@ sudo dnf copr enable metal3d/helm
 Then choose wich package to install
 
 - "helm" package is the standalone version
-- "lv2-helm" is the plugin to be able to use it as LV2 plugin (eg. in Ardour, Rosegarder, and so on)
+- "lv2-helm" is the plugin to be able to use it as LV2 plugin (eg. in Ardour, Rosegarden, and so on)
 
 ```
 sudo dnf install helm
